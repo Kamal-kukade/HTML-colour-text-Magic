@@ -1,2 +1,3 @@
 # HTML-colour-text-Magic
-RBG text color not working yet I am working on it!
+alert :RBG text color not working yet I am working on it!
+simply run and see Magic
